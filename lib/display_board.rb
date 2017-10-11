@@ -6,9 +6,9 @@ board[0] = "O"
 board[4] = "X"
 def display_board(board)
 
-  puts "   |   |   "
+  puts " O  |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | X  |   "
   puts "-----------"
   puts "   |   |   "
 end
